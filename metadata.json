@@ -1,0 +1,8 @@
+{
+  "name": "BritConnect AI Customer Churn Intelligence Platform",
+  "description": "Enterprise UK telecommunications customer churn intelligence platform with in-browser machine learning, explainable risk scoring, retention campaign tracking, and Gemini AI analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
